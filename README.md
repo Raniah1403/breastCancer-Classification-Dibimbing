@@ -1,4 +1,4 @@
-# breastCancer Classification Project - Machine Learning
+# Breast Cancer Classification Project Using Decision Tree & Logistic Regression - Machine Learning
 ## Overview
 This project performs classification using the Breast Cancer dataset from Scikit-Learn (https://scikit-learn.org/1.5/datasets/toy_dataset.html). The dataset consists of 30 numerical features representing characteristics of breast tumor cells. The goal of this project is to classify tumors as malignant (cancerous) or benign (non-cancerous) using Decision Tree and Logistic Regression models.
 
